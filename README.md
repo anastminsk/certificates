@@ -1,4 +1,4 @@
-# certificates
+# certifications
 
 ## Training courses and certifications
 
