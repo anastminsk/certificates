@@ -8,6 +8,8 @@
 
 ### JavaScript/DOM/Interfaces, learn.javascript.ru (online course), 01.06.2017-01.08.2017;
 
+### JavaScript Development, The Rolling Scopes School 2017Q3 (Minsk), 11.09.2017-27.04.2018;
+
 ### React.JS, learn.javascript.ru (online course), 23.03.2018-26.04.2018;
 
 ### Summer Communicative Course, Streamline (Minsk), level Pre-Intermediate +, 05.06.2018-27.08.2018;
