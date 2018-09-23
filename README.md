@@ -13,3 +13,5 @@
 ### React.JS, learn.javascript.ru (online course), 23.03.2018-26.04.2018;
 
 ### Summer Communicative Course, Streamline (Minsk), level Pre-Intermediate +, 05.06.2018-27.08.2018;
+
+### TypeScript, learn.javascript.ru (online course), 06.09.2018-20.09.2018;
