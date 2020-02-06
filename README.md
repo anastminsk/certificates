@@ -15,3 +15,9 @@
 ### Summer Communicative Course, Streamline (Minsk), level Pre-Intermediate +, 05.06.2018-27.08.2018;
 
 ### TypeScript, learn.javascript.ru (online course), 06.09.2018-20.09.2018;
+
+### TypeScript In-Depth #9 (Minsk, EPAM), 13.05.2019-17.05.2019;
+
+### Angular 2+ #21 (Minsk, EPAM), 08.07.2019-13.09.2019;
+
+### Angular Global Mentoring Program 2019Q3 (Minsk, EPAM), 08.10.2019-01.02.2020;
