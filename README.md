@@ -16,8 +16,16 @@
 
 ### TypeScript, learn.javascript.ru (online course), 06.09.2018-20.09.2018;
 
+### Angular, learn.javascript.ru (online course), 21.09.2018-26.10.2018;
+
 ### TypeScript In-Depth #9 (Minsk, EPAM), 13.05.2019-17.05.2019;
 
 ### Angular 2+ #21 (Minsk, EPAM), 08.07.2019-13.09.2019;
 
 ### Angular Global Mentoring Program 2019Q3 (Minsk, EPAM), 08.10.2019-01.02.2020;
+
+### ReactJS Global Mentoring Program 2021 (Minsk, EPAM), February-May 2021;
+
+### TypeScript In-Depth #29 (Minsk, EPAM), 26.07.2021-04.08.2021;
+
+### Software Designs and Algorithms (Minsk, EPAM), September-November 2021;
